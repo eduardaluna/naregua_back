@@ -1,0 +1,10 @@
+// dependencias
+node_modules/
+
+// erros
+yarn-error.log
+
+// lock
+package-lock.json
+
+.env
